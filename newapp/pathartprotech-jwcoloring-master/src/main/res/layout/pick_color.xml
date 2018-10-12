@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (C) 2010 Peter Dornbach.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+--> 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:coloring="http://schemas.android.com/apk/res-auto"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+              
+	<TableLayout 
+	             android:layout_width="fill_parent"
+	             android:layout_height="wrap_content"
+	             android:layout_centerInParent="true">
+
+		<TableRow>
+
+			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				coloring:color="#8B0000" />
+
+			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				coloring:color="#FF0000" />
+
+			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				coloring:color="#FA8072" />
+
+			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				coloring:color="#FFC0CB" />
+
+			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				coloring:color="#FFDEAD" />
+
+			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				coloring:color="#F4A460" />
+
+			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				coloring:color="#D2691E" />
+
+			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:baselineAligned="false"
+				coloring:color="#8B4513" />
+		</TableRow>
+	
+	    <TableRow>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#800080"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#C71585"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF1493"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF69B4"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FFFF00"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FFD700"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FFA500"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF4500"/>
+	    </TableRow>
+	
+	    <TableRow>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#4B0082"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#9400D3"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF00FF"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#EE82EE"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#F0E68C"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#BDB76B"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#808000"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#556B2F"/>
+	    </TableRow>
+	    <TableRow>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#483D8B"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#6A5ACD"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#4682B4"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#B0C4DE"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#98FB98"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#32CD32"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#228B22"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#006400"/>
+	    </TableRow>
+	    <TableRow>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#000080"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#0000FF"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#00BFFF"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#87CEEB"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#ADFF2F"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#00FF00"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#708090"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#2F4F4F"/>
+	    </TableRow>
+	    <TableRow>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#008080"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#00CED1"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#00FFFF"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#7FFFD4"/>
+            <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             coloring:color="#FFFFFF"/>
+            <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             coloring:color="#C0C0C0"/>
+	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#808080"/>
+            <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             coloring:color="#404040"/>
+	    </TableRow>
+	
+	</TableLayout>
+</RelativeLayout>   
