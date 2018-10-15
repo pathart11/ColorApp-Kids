@@ -30,41 +30,49 @@
 			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
+				android:drawable="@drawable/paintblot"
 				coloring:color="#8B0000" />
 
 			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
+				android:drawable="@drawable/paintblot"
 				coloring:color="#FF0000" />
 
 			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
+				android:src="@drawable/paintblot"
 				coloring:color="#FA8072" />
 
 			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
+				android:drawable="@drawable/paintblot"
 				coloring:color="#FFC0CB" />
 
 			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
+				android:drawable="@drawable/paintblot"
 				coloring:color="#FFDEAD" />
 
 			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
+				android:drawable="@drawable/paintblot"
 				coloring:color="#F4A460" />
 
 			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
+				android:drawable="@drawable/paintblot"
 				coloring:color="#D2691E" />
 
 			<com.pathartprotech.jwcoloring.ui.widget.ColorButton
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
+				android:drawable="@drawable/paintblot"
 				android:baselineAligned="false"
 				coloring:color="#8B4513" />
 		</TableRow>
@@ -72,132 +80,172 @@
 	    <TableRow>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#800080"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#C71585"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#FF1493"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#FF69B4"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#FFFF00"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#FFD700"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#FFA500"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#FF4500"/>
 	    </TableRow>
 	
 	    <TableRow>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#4B0082"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#9400D3"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#FF00FF"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#EE82EE"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#F0E68C"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#BDB76B"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#808000"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#556B2F"/>
 	    </TableRow>
 	    <TableRow>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#483D8B"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#6A5ACD"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#4682B4"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#B0C4DE"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#98FB98"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#32CD32"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#228B22"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#006400"/>
 	    </TableRow>
 	    <TableRow>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#000080"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#0000FF"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#00BFFF"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#87CEEB"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#ADFF2F"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#00FF00"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#708090"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#2F4F4F"/>
 	    </TableRow>
 	    <TableRow>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#008080"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#00CED1"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#00FFFF"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#7FFFD4"/>
             <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
                                              android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
                                              coloring:color="#FFFFFF"/>
             <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
                                              android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
                                              coloring:color="#C0C0C0"/>
 	        <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
 	                                         android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
 	                                         coloring:color="#808080"/>
             <com.pathartprotech.jwcoloring.ui.widget.ColorButton android:layout_width="wrap_content"
                                              android:layout_height="wrap_content"
+											 android:drawable="@drawable/paintblot"
                                              coloring:color="#404040"/>
 	    </TableRow>
 	

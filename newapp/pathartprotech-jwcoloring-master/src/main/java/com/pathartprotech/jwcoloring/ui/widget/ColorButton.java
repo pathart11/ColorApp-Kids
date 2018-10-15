@@ -24,6 +24,7 @@ import android.graphics.drawable.GradientDrawable.Orientation;
 import android.util.AttributeSet;
 import com.pathartprotech.jwcoloring.R;
 
+
 public class ColorButton extends ColoringButton
 {
 
@@ -46,7 +47,7 @@ public class ColorButton extends ColoringButton
                 {
                     Color.WHITE, Color.TRANSPARENT, Color.TRANSPARENT
                 });
-        _highlightDrawable.setShape(GradientDrawable.OVAL);
+        _highlightDrawable.setShape(GradientDrawable.RING);
         _colorDrawable = new GradientDrawable();
         _colorDrawable.setColor(_color);
         _colorDrawable.setShape(GradientDrawable.OVAL);
@@ -61,7 +62,6 @@ public class ColorButton extends ColoringButton
     {
         this(context, null);
     }
-
     @Override
     public void setSelected(boolean selected)
     {
